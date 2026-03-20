@@ -47,11 +47,6 @@ Em breve o projeto estará disponível online via GitHub Pages.
 
 ---
 
-## 📸 Preview
-
-*(adicione aqui uma imagem do seu projeto depois)*
-
----
 
 ## 📈 Evolução do projeto
 
@@ -67,7 +62,7 @@ Este projeto faz parte da minha evolução como desenvolvedor. Pretendo continua
 ## 📬 Contato
 
 - GitHub: https://github.com/Diogotex0  
-- LinkedIn: *(coloque seu link aqui)*  
+- LinkedIn: https://www.linkedin.com/in/diogo-oliveira-46a27a313/  
 
 ---
 
