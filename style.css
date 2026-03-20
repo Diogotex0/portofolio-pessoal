@@ -1,0 +1,166 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+}
+
+.header {
+  width: 100%;
+  padding: 24px 60px;
+}
+
+.logo {
+  color: #ff2b2b;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.hero {
+  min-height: calc(100vh - 80px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 90px;
+  padding: 40px 60px 60px;
+}
+
+.hero-left {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  width: 270px;
+  height: 380px;
+  background: linear-gradient(145deg, #141414, #0d0d0d);
+  border-radius: 28px;
+  box-shadow: inset 0 0 20px rgba(255, 255, 255, 0.02);
+}
+
+.hero-right {
+  max-width: 520px;
+}
+
+.hero-right h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1;
+  margin-bottom: 10px;
+}
+
+.hero-right h1 span {
+  color: #ff2b2b;
+  font-weight: 500;
+}
+
+.hero-right h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #f2f2f2;
+  margin-bottom: 18px;
+}
+
+.hero-right p {
+  font-size: 1rem;
+  color: #d0d0d0;
+  line-height: 1.6;
+  margin-bottom: 28px;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 110px;
+  height: 42px;
+  padding: 0 20px;
+  border: 1px solid #ff2b2b;
+  border-radius: 999px;
+  text-decoration: none;
+  color: #ff2b2b;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #ff2b2b;
+  color: #fff;
+}
+
+.btn.primary {
+  min-width: 140px;
+  background-color: transparent;
+  color: #ff2b2b;
+}
+
+.btn.primary:hover {
+  background-color: #ff2b2b;
+  color: #fff;
+}
+
+/* RESPONSIVO */
+@media (max-width: 900px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    gap: 40px;
+  }
+
+  .hero-right {
+    max-width: 100%;
+  }
+
+  .buttons {
+    justify-content: center;
+  }
+
+  .hero-right h1 {
+    font-size: 2.4rem;
+  }
+
+  .hero-right h2 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .header {
+    padding: 20px 24px;
+  }
+
+  .hero {
+    padding: 20px 24px 40px;
+  }
+
+  .box {
+    width: 220px;
+    height: 310px;
+  }
+
+  .hero-right h1 {
+    font-size: 2rem;
+  }
+
+  .hero-right h2 {
+    font-size: 1.2rem;
+  }
+
+  .hero-right p {
+    font-size: 0.95rem;
+  }
+}
