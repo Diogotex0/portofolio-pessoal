@@ -51,14 +51,6 @@ O layout segue uma abordagem moderna com:
 
 ---
 
-## 📸 Preview do projeto
-
-<p align="center">
-  <img src="./assets/preview.png" width="800px" alt="Preview do projeto"/>
-</p>
-
----
-
 ## 🌐 Deploy
 
 🚧 Em breve disponível via GitHub Pages  
