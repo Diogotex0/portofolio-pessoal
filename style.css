@@ -164,3 +164,14 @@ body {
     font-size: 0.95rem;
   }
 }
+
+.hidden {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: 0.8s;
+}
+
+.show {
+  opacity: 1;
+  transform: translateY(0);
+}
