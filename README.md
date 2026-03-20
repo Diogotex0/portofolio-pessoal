@@ -1,78 +1,112 @@
-# 🚀 Portfólio Pessoal — Diogo Teixeira
+# Diogo Teixeira — Portfólio Pessoal
 
-Este é o meu portfólio pessoal desenvolvido com foco em apresentar minhas habilidades como desenvolvedor front-end, destacando projetos, design moderno e boas práticas de desenvolvimento.
-
----
-
-## 🧠 Sobre o projeto
-
-O objetivo deste projeto é criar uma interface moderna, responsiva e intuitiva, servindo como vitrine dos meus conhecimentos em desenvolvimento web.
-
-Busquei desenvolver não apenas um layout visualmente agradável, mas também uma experiência fluida e organizada para o usuário.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-red" />
+  <img src="https://img.shields.io/badge/foco-Front--End-red" />
+  <img src="https://img.shields.io/badge/feito%20com-HTML%20%7C%20CSS%20%7C%20JS-black" />
+</p>
 
 ---
 
-## 💻 Tecnologias utilizadas
+## 🚀 Sobre o projeto
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git & GitHub  
+Este é o meu portfólio pessoal desenvolvido com foco em apresentar minhas habilidades como desenvolvedor Front-End, unindo **design moderno**, **boas práticas de código** e **experiência do usuário**.
+
+O projeto foi pensado não apenas como uma vitrine, mas como um ambiente de evolução contínua, onde aplico na prática tudo o que venho aprendendo.
 
 ---
 
-## 🎨 Layout
+## 🎯 Objetivo
 
-O design do projeto foi inspirado em interfaces modernas, com foco em:
+- Consolidar conhecimentos em desenvolvimento web  
+- Criar uma presença profissional online  
+- Demonstrar habilidades técnicas e de design  
+- Servir como base para projetos futuros  
 
-- Minimalismo  
-- Paleta dark com destaque em vermelho  
-- Tipografia limpa e legível  
-- Organização visual clara  
+---
+
+## 🧠 Tecnologias utilizadas
+
+HTML5 • CSS3 • JavaScript • Git • GitHub
+
+---
+
+## 🎨 Design & Experiência
+
+O layout segue uma abordagem moderna com:
+
+- 🌑 Tema dark  
+- 🔴 Destaques em vermelho (#ff2b2b)  
+- 🧩 Estrutura limpa e organizada  
+- 📱 Foco em responsividade (em evolução)  
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- Estrutura de portfólio profissional  
-- Seção de apresentação (Hero)  
-- Botões interativos  
-- Layout responsivo (em desenvolvimento)  
+- Hero section (apresentação principal)  
+- Botões interativos (GitHub / LinkedIn / Sobre)  
+- Estrutura escalável para novas seções  
+- Código organizado e semântico  
 
 ---
 
-## 🚀 Deploy
+## 📸 Preview do projeto
 
-Em breve o projeto estará disponível online via GitHub Pages.
+<p align="center">
+  <img src="./assets/preview.png" width="800px" alt="Preview do projeto"/>
+</p>
 
 ---
 
+## 🌐 Deploy
+
+🚧 Em breve disponível via GitHub Pages  
+
+*(em breve link aqui)*
+
+---
 
 ## 📈 Evolução do projeto
 
-Este projeto faz parte da minha evolução como desenvolvedor. Pretendo continuar aprimorando com:
+Este projeto está em constante evolução. Próximas melhorias:
 
-- Animações  
-- Melhor responsividade  
-- Novas seções (projetos, contato, etc)  
-- Integração com APIs  
+- ✨ Animações com CSS / JS  
+- 📱 Responsividade completa  
+- 📂 Seção de projetos  
+- 📬 Formulário de contato  
+- 🌍 Deploy online  
 
 ---
 
-## 📬 Contato
+## 🤝 Conecte-se comigo
 
-- GitHub: https://github.com/Diogotex0  
-- LinkedIn: https://www.linkedin.com/in/diogo-oliveira-46a27a313/  
+<p align="left">
+  <a href="https://github.com/Diogotex0">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/diogo-oliveira-46a27a313/">
+    <img src="https://img.shields.io/badge/LinkedIn-red?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 🧑‍💻 Autor
 
 Desenvolvido por **Diogo Teixeira**  
-Estudante de Engenharia de Software
+🎓 Estudante de Engenharia de Software  
 
 ---
 
-## ⭐ Considerações
+## ⭐ Apoie
 
-Se você gostou do projeto, considere deixar uma ⭐ no repositório!
+Se esse projeto te ajudou ou você gostou, considere deixar uma ⭐ no repositório!
+
+---
+
+## 💡 Observação
+
+Este projeto representa minha evolução como desenvolvedor.  
+Estou constantemente estudando, praticando e buscando melhorar minhas habilidades todos os dias 🚀
+
